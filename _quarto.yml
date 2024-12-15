@@ -5,10 +5,10 @@ project:
     - "*.qmd" # renders all qmd files only. If you want to render something other than a qmd file, add it here.
     - "!instructions_history/" # this is so this folder does not render. 
 website:
-  title: "Albert Einstein's Data Science Portfolio"
+  title: "Natalia Flores's Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/1Ramirez7/Portfolio_Template
+  repo-url: https://github.com/nataliafloress/nataliafloress.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
   
 
@@ -16,10 +16,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Albert Einstein 1400©"
+    left: "Natalia Flores 1400©"
     right: 
       - icon: linkedin
-        href: https://www.linkedin.com/
+        href: https://www.linkedin.com/in/natalia-flores-79a3041b1/
 
 
   navbar:
