@@ -5,7 +5,7 @@ project:
     - "*.qmd" # renders all qmd files only. If you want to render something other than a qmd file, add it here.
     - "!instructions_history/" # this is so this folder does not render. 
 website:
-  title: "Natalia Flores's Data Science Portfolio"
+  title: "Natalia Flores's  Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/nataliafloress/nataliafloress.github.io
