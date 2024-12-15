@@ -1,5 +1,5 @@
 ---
-title: "Albert Einstein"
+title: "Natalia Flores"
 subtitle: "My Data Science Portfolio"
 format: html
 ---
@@ -67,6 +67,6 @@ Mapped environmental data to identify climate patterns and trends.
 # Contact Me
 
 Feel free to reach out for collaboration or inquiries.  
-- **Email**: albert.einstein@example.com  
-- **LinkedIn**: [Albert's Profile](https://linkedin.com/)  
+- **Email**: natalia_flores1999@hotmail.com  
+- **LinkedIn**: [Natalia Flores](https://www.linkedin.com/in/natalia-flores-79a3041b1/)  
 

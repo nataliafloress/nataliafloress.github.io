@@ -2,122 +2,23 @@
   {
     "objectID": "index.html#get-started-instructions-for-using-this-portfolio-template",
     "href": "index.html#get-started-instructions-for-using-this-portfolio-template",
-    "title": "Albert Einstein",
+    "title": "Natalia Flores",
     "section": "💡 Get Started: Instructions for Using this Portfolio Template 💡",
     "text": "💡 Get Started: Instructions for Using this Portfolio Template 💡"
   },
   {
     "objectID": "index.html#time-series-forecasting",
     "href": "index.html#time-series-forecasting",
-    "title": "Albert Einstein",
+    "title": "Natalia Flores",
     "section": "📈 Time Series Forecasting",
     "text": "📈 Time Series Forecasting\nAnalyzed and forecasted sales trends using advanced time series models in R.\n- Tools: tsibble, fable, feasts\n- View Project"
   },
   {
     "objectID": "index.html#interactive-dashboards",
     "href": "index.html#interactive-dashboards",
-    "title": "Albert Einstein",
+    "title": "Natalia Flores",
     "section": "📊 Interactive Dashboards",
     "text": "📊 Interactive Dashboards\nDeveloped dynamic dashboards to visualize COVID-19 data trends.\n- Tools: Shiny, ggplot2\n- View Project\n\n🧠 Machine Learning Models\nBuilt classification models to predict customer churn with 90% accuracy.\n- View Details\n\n\n🌍 Geospatial Analysis\nMapped environmental data to identify climate patterns and trends.\n- View Details"
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Your Name’s CV",
-    "section": "",
-    "text": "[Your Desired Job Title or Professional Identity]"
-  },
-  {
-    "objectID": "resume.html#profile",
-    "href": "resume.html#profile",
-    "title": "Your Name’s CV",
-    "section": "Profile",
-    "text": "Profile\n[Insert a brief, professional summary about yourself here, focusing on your skills, experiences, or interests relevant to your desired job role.]"
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Your Name’s CV",
-    "section": "Education",
-    "text": "Education\n[Expected Graduation or Completed Date]\n[Degree Title], [University Name], [Location]\n- Minor/Specialization: [Optional Details] - Relevant Courses or Focus Areas: [Optional Details]"
-  },
-  {
-    "objectID": "resume.html#professional-experience",
-    "href": "resume.html#professional-experience",
-    "title": "Your Name’s CV",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\n[Job Title]\n[Company Name], [Location]\n[Start Date] - [End Date or Present] - [Brief description of your responsibilities or achievements in this role.] - [Another point showcasing a skill, achievement, or task.]\n\n\n[Job Title]\n[Company Name], [Location]\n[Start Date] - [End Date or Present] - [Brief description of your responsibilities or achievements in this role.] - [Another point showcasing a skill, achievement, or task.]\n\n\n[Optional Additional Role]\n[Company Name], [Location]\n[Start Date] - [End Date or Present] - [Brief description of your responsibilities or achievements in this role.]"
-  },
-  {
-    "objectID": "resume.html#volunteer-experience",
-    "href": "resume.html#volunteer-experience",
-    "title": "Your Name’s CV",
-    "section": "Volunteer Experience",
-    "text": "Volunteer Experience\n\n[Role Title]\n[Organization Name], [Location]\n[Start Date] - [End Date] - [Brief description of your volunteer activities or contributions.]\n\n\n[Role Title]\n[Organization Name], [Location]\n[Start Date] - [End Date] - [Brief description of your volunteer activities or contributions.]"
-  },
-  {
-    "objectID": "resume.html#skills",
-    "href": "resume.html#skills",
-    "title": "Your Name’s CV",
-    "section": "Skills",
-    "text": "Skills\n\nLanguages: [e.g., Fluent in Spanish, English, and French].\nTechnical Skills: [e.g., Excel, R, Python, SQL].\nKey Competencies: [e.g., Management, Leadership, Strategic Thinking].\nSpecializations: [e.g., Financial Modeling, Data Visualization]."
-  },
-  {
-    "objectID": "resume.html#certifications",
-    "href": "resume.html#certifications",
-    "title": "Your Name’s CV",
-    "section": "Certifications",
-    "text": "Certifications\n\n[Certification Name], Issued [Date]\n[Certification Name], Issued [Date]\n\n\nLast updated: March 1400"
-  },
-  {
-    "objectID": "projects/project3.html",
-    "href": "projects/project3.html",
-    "title": "Project title here",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Projects",
-      "project 3 name"
-    ]
-  },
-  {
-    "objectID": "projects/project1.html",
-    "href": "projects/project1.html",
-    "title": "Project title here",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Projects",
-      "Project 1 name"
-    ]
-  },
-  {
-    "objectID": "instructions.html",
-    "href": "instructions.html",
-    "title": "Instructions to set up the Portfolio template",
-    "section": "",
-    "text": "Instructions to editing this Portfolio\nThe main goal of this instructions is focused around editing the _quarto.yml and the process of pushing to github for the site to render. If you follow the steps below on adding new files and editing the _quarto.yml your site should always render. I do not focus to much on the QMD details as that is one of the main concepts we have been working on in class. So you can edit the QMD files as you see fit, and as long as they render locally, they will be published to the site.\nGo to Potential Errors and Bugs\nThe following are instructions to edit this portfolio separated into sections. Each section is intended to show how to add and or edit different parts of the portfolio.\n\n\nUsing this template and or cloning to a new device\nStep 1\n- Go to the template (GitHub Portfolio Template), and select “Use as template.” - Name it and set it to public. - Go to Settings &gt; Pages, and configure:\n- Branch: main\n- Folder: docs\n- Hit save and watch it go live.\nStep 2\n- Create the R project for this portfolio.\n- Make an edit, render the site, and push to make sure you are connected to your portfolio:\ngit remote show origin (use in R console or RStudio)\n- Once you push to GitHub and the site is successfully built using GitHub Pages, you have successfully created your portfolio.\nStep 3\n- I have steps with videos on how to add new tabs and edit the YAML file.\n- I mostly focused on the YAML code and preparing the website. The main thing about your portfolio is to show what you are capable of. This portfolio is all set up for you to do as you want with your .qmd files, and once rendered locally, they will push to the site. So go all out.\n\n\nStep 4 (if using Python code, optional)\nIf you are not planning on using Python code, you can do this later. If you are planning on using Python code, then do the following:\n\nOpen the python.qmd file and remove the # from the ```{python} so RStudio recognizes the Python chunks.\n\nIn the instructions for the video “Working with Python…part 1,” follow and only do steps 1 to 1.7 (watch the first video). Watch the beginning of the second video until I get to the part about installing Python code, just so you understand more about environments and Python code.\n\nOnce you have done steps 1 to 1.9 and have an environment successfully loaded, run the following code to install the Python libraries in the requirements.txt file:\n\nCheck for environment loaded:\nlibrary(reticulate)\npy_config()\nLoad environment if needed:\nlibrary(reticulate)\nuse_virtualenv(\"env\", required = TRUE)\nRun to install Python libraries in requirements.txt file:\nshell(\"pip install -r requirements.txt\")\n\nRender the python.qmd file, and you should be set to run Python code within RStudio.\nWhen installing new Python libraries (edit library names as needed):\nlibrary(reticulate)\npy_install(c(\"pandas\", \"numpy\", \"matplotlib\"))\nAfter installing new Python libraries, update the requirements.txt file:\nshell(\"pip freeze &gt; requirements.txt\")\n\n\n\n\n\n\n\nAdding a New Tab\nAdding a new tab to the portfolio. I’m adding a resume.\n\nIn the _quarto.yml file add, under the navbar, and this two lines of code\ntext: \"My Resume\"\nfile: resume.qmd\nAdd/create the resume.qmd file to the root folder\n\nRender the resume.qmd file\n\nUpdate yml links\n\nBuild &gt; render website\n\nPush to GitHub and the site should be updated with your new tab.\n\n\n\n\n\nAdding a Project Tab with Multiple Files\nStep 1:\nAdding a tab with a sidebar for multiple QMD files\n- Add tab code to navbar and sidebar code to _quarto.yml\nStep 2:\n- Add QMD for the main tab\n- Add a folder with QMD files for the main tab\n\n\n\n\nWorking with Python Code & Environment in R-Studio\nPart 4. Working with Python code, environment, and requirements.txt files in R-Studio\nStep 1: Check what environment is active (likely a global environment)\nlibrary(reticulate)\npy_config()\nStep 1.5: Create a virtual environment if needed (basically needed in any new device)\nlibrary(reticulate)\nvirtualenv_create(\"env\") # env can be any name you want\nStep 1.7: Load environment for the project if needed. Use the code from Step 1 to make sure the new environment is loaded. If not, use this to load the new environment. Replace env with the actual name of your environment.\nlibrary(reticulate)\nuse_virtualenv(\"env\", required = TRUE)\nStep 2: Install Python libraries\nlibrary(reticulate)\npy_install(c(\"pandas\", \"numpy\", \"matplotlib\"))\nStep 2.1: Run Python code/file and render Python files\nStep 3: Create/update the requirements.txt file\nshell(\"pip freeze &gt; requirements.txt\")\n\n\n\n\n\n\nPotential Errors and Bugs\nAny errors and or bugs you have with no solution for, please make a new issue for this repository.\n\nMake sure to include the error message and what you were doing when the error occurred.\nscreenshots of the error will help\n\nOperating Systems: windows, MAc, Linux\n\nThe instructions for this portfolio are based on a Windows operating system. If you are using a Mac or Linux, you may need to adjust the instructions accordingly.\nInstructions that apply to Mac and Linux are coming soon but not available as of 12/10/2024.\nEverything is about the same, but the code use in the console and or terminal may be different.\nAi can probably provide some help if you provide the windows code and ask it to give it to you for mac/linux. Make sure you specify what you are doing. (eg: I’m using this in R studio for a site project and I have this code that goes in the r console but for windows … code… what is the equivalent for mac/linux)\n\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Projects\nSample Projects Overview\n\nProject 1: Data Visualization and Reporting\n\nDeveloped interactive dashboards to visualize key business metrics and trends.\nAutomated data cleaning and integration processes to streamline reporting workflows.\nCollaborated with stakeholders to ensure insights were actionable and aligned with business goals.\n\n\n\nproject 1 name here\n\n\nProject 2: Predictive Modeling\n\nBuilt machine learning models to forecast customer demand with improved accuracy.\nIntegrated predictive insights into decision-making processes, reducing stockouts and excess inventory.\nConducted sensitivity analysis to assess the impact of key variables on predictions.\n\n\n\nproject 2 name here\n\n\nProject 3: Time Series Analysis\n\nAnalyzed historical sales data to identify seasonal patterns and trends.\nDesigned and implemented time series forecasting models to predict future sales performance.\nProvided actionable recommendations to optimize promotional strategies and inventory planning.\n\n\n\nproject 3 name here\n\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Projects"
-    ]
-  },
-  {
-    "objectID": "projects/project2.html",
-    "href": "projects/project2.html",
-    "title": "Project title here",
-    "section": "",
-    "text": "Back to top",
-    "crumbs": [
-      "Projects",
-      "project 2 name"
-    ]
   },
   {
     "objectID": "python.html",
@@ -132,5 +33,104 @@
     "title": "Python QMD Example",
     "section": "",
     "text": "This is an example of how to use Python code in a R Markdown document. We will use the reticulate package to run Python code in this R Markdown document.\nTo a void issues when first using this template, or cloning to a new device. The python code chunks have been commented out so it doesn’t trigger the jupyter notebook. Triggering the jupyter notebook will require a python environment, and the required jupyter notebook libraries. Downloading this libraries can be a hassle if not using python. When using Python you will have to follow the steps to make sure your project is properly set up to run python code in R-studio.\n#```{python} # Import common libraries import pandas as pd import numpy as np import matplotlib.pyplot as plt"
+  },
+  {
+    "objectID": "projects/project2.html",
+    "href": "projects/project2.html",
+    "title": "Project title here",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Projects",
+      "project 2 name"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Projects\nSample Projects Overview\n\nProject 1: Data Visualization and Reporting\n\nDeveloped interactive dashboards to visualize key business metrics and trends.\nAutomated data cleaning and integration processes to streamline reporting workflows.\nCollaborated with stakeholders to ensure insights were actionable and aligned with business goals.\n\n\n\nproject 1 name here\n\n\nProject 2: Predictive Modeling\n\nBuilt machine learning models to forecast customer demand with improved accuracy.\nIntegrated predictive insights into decision-making processes, reducing stockouts and excess inventory.\nConducted sensitivity analysis to assess the impact of key variables on predictions.\n\n\n\nproject 2 name here\n\n\nProject 3: Time Series Analysis\n\nAnalyzed historical sales data to identify seasonal patterns and trends.\nDesigned and implemented time series forecasting models to predict future sales performance.\nProvided actionable recommendations to optimize promotional strategies and inventory planning.\n\n\n\nproject 3 name here\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "instructions.html",
+    "href": "instructions.html",
+    "title": "Instructions to set up the Portfolio template",
+    "section": "",
+    "text": "Instructions to editing this Portfolio\nThe main goal of this instructions is focused around editing the _quarto.yml and the process of pushing to github for the site to render. If you follow the steps below on adding new files and editing the _quarto.yml your site should always render. I do not focus to much on the QMD details as that is one of the main concepts we have been working on in class. So you can edit the QMD files as you see fit, and as long as they render locally, they will be published to the site.\nGo to Potential Errors and Bugs\nThe following are instructions to edit this portfolio separated into sections. Each section is intended to show how to add and or edit different parts of the portfolio.\n\n\nUsing this template and or cloning to a new device\nStep 1\n- Go to the template (GitHub Portfolio Template), and select “Use as template.” - Name it and set it to public. - Go to Settings &gt; Pages, and configure:\n- Branch: main\n- Folder: docs\n- Hit save and watch it go live.\nStep 2\n- Create the R project for this portfolio.\n- Make an edit, render the site, and push to make sure you are connected to your portfolio:\ngit remote show origin (use in Terminal)\n- Once you push to GitHub and the site is successfully built using GitHub Pages, you have successfully created your portfolio.\nStep 3\n- I have steps with videos on how to add new tabs and edit the YAML file.\n- I mostly focused on the YAML code and preparing the website. The main thing about your portfolio is to show what you are capable of. This portfolio is all set up for you to do as you want with your .qmd files, and once rendered locally, they will push to the site. So go all out.\n\n\nStep 4 (if using Python code, optional)\nIf you are not planning on using Python code, you can do this later. If you are planning on using Python code, then do the following:\n\nOpen the python.qmd file and remove the # from the ```{python} so RStudio recognizes the Python chunks.\n\nIn the instructions for the video “Working with Python…part 1,” follow and only do steps 1 to 1.7 (watch the first video). Watch the beginning of the second video until I get to the part about installing Python code, just so you understand more about environments and Python code.\n\nOnce you have done steps 1 to 1.9 and have an environment successfully loaded, run the following code to install the Python libraries in the requirements.txt file:\n\nCheck for environment loaded:\nlibrary(reticulate)\npy_config()\nLoad environment if needed:\nlibrary(reticulate)\nuse_virtualenv(\"env\", required = TRUE)\nRun to install Python libraries in requirements.txt file:\nshell(\"pip install -r requirements.txt\")\n\nRender the python.qmd file, and you should be set to run Python code within RStudio.\nWhen installing new Python libraries (edit library names as needed):\nlibrary(reticulate)\npy_install(c(\"pandas\", \"numpy\", \"matplotlib\"))\nAfter installing new Python libraries, update the requirements.txt file:\nshell(\"pip freeze &gt; requirements.txt\")\n\n\n\n\n\n\n\nAdding a New Tab\nAdding a new tab to the portfolio. I’m adding a resume.\n\nIn the _quarto.yml file add, under the navbar, and this two lines of code\ntext: \"My Resume\"\nfile: resume.qmd\nAdd/create the resume.qmd file to the root folder\n\nRender the resume.qmd file\n\nUpdate yml links\n\nBuild &gt; render website\n\nPush to GitHub and the site should be updated with your new tab.\n\n\n\n\n\nAdding a Project Tab with Multiple Files\nStep 1:\nAdding a tab with a sidebar for multiple QMD files\n- Add tab code to navbar and sidebar code to _quarto.yml\nStep 2:\n- Add QMD for the main tab\n- Add a folder with QMD files for the main tab\n\n\n\n\nWorking with Python Code & Environment in R-Studio\nPart 4. Working with Python code, environment, and requirements.txt files in R-Studio\nStep 1: Check what environment is active (likely a global environment)\nlibrary(reticulate)\npy_config()\nStep 1.5: Create a virtual environment if needed (basically needed in any new device)\nlibrary(reticulate)\nvirtualenv_create(\"env\") # env can be any name you want\nStep 1.7: Load environment for the project if needed. Use the code from Step 1 to make sure the new environment is loaded. If not, use this to load the new environment. Replace env with the actual name of your environment.\nlibrary(reticulate)\nuse_virtualenv(\"env\", required = TRUE)\nStep 2: Install Python libraries\nlibrary(reticulate)\npy_install(c(\"pandas\", \"numpy\", \"matplotlib\"))\nStep 2.1: Run Python code/file and render Python files\nStep 3: Create/update the requirements.txt file\nshell(\"pip freeze &gt; requirements.txt\")\n\n\n\n\n\n\nPotential Errors and Bugs\nAny errors and or bugs you have with no solution for, please make a new issue for this repository.\n\nMake sure to include the error message and what you were doing when the error occurred.\nscreenshots of the error will help\n\nOperating Systems: windows, MAc, Linux\n\nThe instructions for this portfolio are based on a Windows operating system. If you are using a Mac or Linux, you may need to adjust the instructions accordingly.\nInstructions that apply to Mac and Linux are coming soon but not available as of 12/10/2024.\nEverything is about the same, but the code use in the console and or terminal may be different.\nAi can probably provide some help if you provide the windows code and ask it to give it to you for mac/linux. Make sure you specify what you are doing. (eg: I’m using this in R studio for a site project and I have this code that goes in the r console but for windows … code… what is the equivalent for mac/linux)\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "projects/project1.html",
+    "href": "projects/project1.html",
+    "title": "Project title here",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Projects",
+      "Project 1 name"
+    ]
+  },
+  {
+    "objectID": "projects/project3.html",
+    "href": "projects/project3.html",
+    "title": "Project title here",
+    "section": "",
+    "text": "Back to top",
+    "crumbs": [
+      "Projects",
+      "project 3 name"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Natalia Flores’s CV",
+    "section": "",
+    "text": "[Business Analytics Consultant]"
+  },
+  {
+    "objectID": "resume.html#profile",
+    "href": "resume.html#profile",
+    "title": "Natalia Flores’s CV",
+    "section": "Profile",
+    "text": "Profile\n[Current Student pursuing a Bachelor of Science in Business Analytics and a minor in Finance from Brigham Young University - Idaho. I am eager to contribute my skills and passion for data-driven decision-making to your team.\nI possess proficiency in Microsoft Office tools, including Word, PowerPoint, Teams, and Excel, and I am skilled in Power BI for data visualization and analysis. My strong communication and interpersonal abilities, coupled with my leadership and teamwork skills, allow me to excel in collaborative environments. My commitment to excellence drives me to succeed in fast-paced settings while maintaining a keen attention to detail.]"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Natalia Flores’s CV",
+    "section": "Education",
+    "text": "Education\n[April 2025]\n[Bachelors Degree in Business ANalytics], [Brigham Young University - Idaho], [Rexburg, Idaho]\n- Minor/Specialization: [Finance] - Relevant Courses or Focus Areas: [Data Science Certificate]"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Natalia Flores’s CV",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\n[Quality Assurance Auditor]\n[Brigham Young University], [Rexburg, Idaho]\n[Jul 2023] - [Present] - [Upgraded quality of service by 80% through auditing 50+ calls, chats, and tickets each week] - [Improved weaknesses in service by giving feedback to 8+ employees every week resulting in fewer callbacks from customers]\n\n\n[Asset & Wealth Management]\n[Goldman Sachs], [Salt Lake City, Utah]\n[Jun 2024] - [Aug 2024] - [Automatized a process to make reports come out faster by reducing production time from 20 hours to just 1 hour] - [Helped customers understand and pick the best investment option to increase their revenues]"
+  },
+  {
+    "objectID": "resume.html#volunteer-experience",
+    "href": "resume.html#volunteer-experience",
+    "title": "Natalia Flores’s CV",
+    "section": "Volunteer Experience",
+    "text": "Volunteer Experience\n\n[English Teacher]\n[BYU Pathway Worldwide], [Lima, Peru]\n[Oct 2021] - [Dec 2021] - [I taught English as a second language to Spanish-speaking students with a variety of backgrounds and ages. We used English Connect 1, 2, and 3.]\n\n\n[Volunteer Staff]\n[Helping Hands], [Lima, Peru]\n[Dec 2021] - [We helped clean the beaches in the area of Lima-Peru.]"
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Natalia Flores’s CV",
+    "section": "Skills",
+    "text": "Skills\n\nLanguages: [Fluent in Spanish and English].\nTechnical Skills: [Excel, R, Python, SQL, Power BI, Alteryx].\nKey Competencies: [Management, Leadership, Strategic Thinking].\nSpecializations: [Finance, Data Science]."
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Natalia Flores’s CV",
+    "section": "Certifications",
+    "text": "Certifications\n\n[Data Science], In Progress [April 2025]\n[Business Fundamentals], In Progress [April 2025]\n\n\nLast updated: December 2024"
   }
 ]
