@@ -1,0 +1,72 @@
+---
+title: "Albert Einstein"
+subtitle: "My Data Science Portfolio"
+format: html
+---
+
+
+<!-- You may want to use pacman to load r libraries. If you clone to a new device, you will have to make sure your r libraries are installed. This option loads and or installs the libraries if needed -->
+
+```{r, eval=FALSE, echo=FALSE}
+
+# loading code this way will make sure you don't run into library  problems when you clone to new device.
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(ggplot2)
+
+```
+
+
+
+<!-- This link can be remove or edited to be use for one of your links. only here for initial instructions but it is not needed.-->
+--- 
+
+## 💡 [Get Started: Instructions for Using this Portfolio Template](instructions.qmd) 💡
+
+--- 
+<!-- this 3 lines can also be deleted since they make part of the vizuals for the get started portion of the portfolio. -->
+
+# Introduction
+
+Welcome! This portfolio highlights my data science expertise, including practical projects and analytical techniques. Below, you'll find examples of my work, ranging from predictive modeling to interactive visualizations.
+
+---
+
+# Skills and Tools
+
+- **Data Wrangling**: Proficient in cleaning and transforming large datasets.
+- **Programming Languages**: Python, R, SQL
+- **Advanced Analytics**: Machine learning, deep learning, time series modeling.
+- **Specializations**: Time Series Analysis, Machine Learning, Data Visualization
+- **Tools**: RStudio, Jupyter Notebook, Tableau, Git
+
+
+---
+
+# Featured Projects
+
+## 📈 **Time Series Forecasting**  
+Analyzed and forecasted sales trends using advanced time series models in R.  
+- Tools: tsibble, fable, feasts  
+- [View Project](projects/project1.qmd)
+
+## 📊 **Interactive Dashboards**  
+Developed dynamic dashboards to visualize COVID-19 data trends.  
+- Tools: Shiny, ggplot2  
+- [View Project](projects/project2.qmd)
+
+### 🧠 **Machine Learning Models**  
+Built classification models to predict customer churn with 90% accuracy.  
+- [View Details](projects/project3.qmd)
+
+### 🌍 **Geospatial Analysis**  
+Mapped environmental data to identify climate patterns and trends.  
+- [View Details](projects/project3.qmd)
+
+---
+
+# Contact Me
+
+Feel free to reach out for collaboration or inquiries.  
+- **Email**: albert.einstein@example.com  
+- **LinkedIn**: [Albert's Profile](https://linkedin.com/)  
+

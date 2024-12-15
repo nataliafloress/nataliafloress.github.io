@@ -1,0 +1,30 @@
+---
+title: "Projects"
+subtitle: " delete if not needed"
+format: html
+# use quarto markdown to 
+---
+
+
+# Projects
+
+
+**Sample Projects Overview**
+
+1. **Project 1: Data Visualization and Reporting**
+   - Developed interactive dashboards to visualize key business metrics and trends.
+   - Automated data cleaning and integration processes to streamline reporting workflows.
+   - Collaborated with stakeholders to ensure insights were actionable and aligned with business goals.
+- [project 1 name here](/projects/project1.qmd)
+
+2. **Project 2: Predictive Modeling**
+   - Built machine learning models to forecast customer demand with improved accuracy.
+   - Integrated predictive insights into decision-making processes, reducing stockouts and excess inventory.
+   - Conducted sensitivity analysis to assess the impact of key variables on predictions.
+- [project 2 name here](/projects/project2.qmd)
+
+3. **Project 3: Time Series Analysis**
+   - Analyzed historical sales data to identify seasonal patterns and trends.
+   - Designed and implemented time series forecasting models to predict future sales performance.
+   - Provided actionable recommendations to optimize promotional strategies and inventory planning.
+- [project 3 name here](/projects/project3.qmd)

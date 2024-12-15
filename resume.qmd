@@ -1,0 +1,71 @@
+---
+title: Your Name's CV
+format: html
+---
+
+
+[Your Desired Job Title or Professional Identity]  
+
+<div id="webaddress">
+<a href="mailto:[Your Email]">[Your Email]</a> |
+<a href="[Your LinkedIn URL]">LinkedIn</a> |
+<a href="[Your GitHub or Portfolio URL]">Portfolio</a>
+</div>
+
+## Profile
+
+[Insert a brief, professional summary about yourself here, focusing on your skills, experiences, or interests relevant to your desired job role.]
+
+## Education
+
+`[Expected Graduation or Completed Date]`  
+__[Degree Title]__, [University Name], [Location]  
+- Minor/Specialization: [Optional Details]
+- Relevant Courses or Focus Areas: [Optional Details]
+
+## Professional Experience
+
+### [Job Title]
+__[Company Name], [Location]__  
+`[Start Date] - [End Date or Present]`
+- [Brief description of your responsibilities or achievements in this role.]
+- [Another point showcasing a skill, achievement, or task.]
+
+### [Job Title]
+__[Company Name], [Location]__  
+`[Start Date] - [End Date or Present]`
+- [Brief description of your responsibilities or achievements in this role.]
+- [Another point showcasing a skill, achievement, or task.]
+
+### [Optional Additional Role]
+__[Company Name], [Location]__  
+`[Start Date] - [End Date or Present]`
+- [Brief description of your responsibilities or achievements in this role.]
+
+## Volunteer Experience
+
+### [Role Title]
+__[Organization Name], [Location]__  
+`[Start Date] - [End Date]`
+- [Brief description of your volunteer activities or contributions.]
+
+### [Role Title]
+__[Organization Name], [Location]__  
+`[Start Date] - [End Date]`
+- [Brief description of your volunteer activities or contributions.]
+
+## Skills
+
+- Languages: [e.g., Fluent in Spanish, English, and French].
+- Technical Skills: [e.g., Excel, R, Python, SQL].
+- Key Competencies: [e.g., Management, Leadership, Strategic Thinking].
+- Specializations: [e.g., Financial Modeling, Data Visualization].
+
+## Certifications
+
+- [Certification Name], Issued [Date]
+- [Certification Name], Issued [Date]
+
+---
+
+_Last updated: March 1400_

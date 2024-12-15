@@ -1,0 +1,81 @@
+---
+title: "Python QMD Example"
+format: html
+---
+
+
+<!-- 
+IMPORTANT before running python code in r studio. Make sure you set your project to allow usage of python code in R studio. Follow the instructions provided. The second video on how to use this template will show you how to set up your project to run python code in R studio.
+-->
+
+
+## Python Example with Common Libraries  
+
+This is an example of how to use Python code in a R Markdown document. We will use the `reticulate` package to run Python code in this R Markdown document.
+
+To a void issues when first using this template, or cloning to a new device. The python code chunks have been commented out so it doesn't trigger the jupyter notebook. Triggering the jupyter notebook will require a python environment, and the required jupyter notebook libraries. Downloading this libraries can be a hassle if not using python. When using Python you will have to follow the steps to make sure your project is properly set up to run python code in R-studio. 
+
+#```{python}
+# Import common libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Create a sample DataFrame
+data = pd.DataFrame({
+    "x": np.linspace(0, 10, 100),
+    "y": np.sin(np.linspace(0, 10, 100))
+})
+
+# Display the first few rows
+data.head()
+
+
+#```
+
+#```{python}
+# Plot the data
+plt.plot(data["x"], data["y"], label="sin(x)")
+plt.xlabel("x")
+plt.ylabel("y")
+plt.title("Plot of sin(x)")
+plt.legend()
+plt.show()
+
+#```
+
+
+
+
+
+step 1. Check what environment is active
+
+library(reticulate)
+
+py_config()
+
+step 1.5: load env for project if needed
+
+library(reticulate)
+
+use_virtualenv("env", required = TRUE)
+
+step1.7: create virtual env if not needed (basically needed in any new device)
+
+library(reticulate) # I wonder if the line below can stand lsone
+
+virtualenv_create("env") # env is the name which can be anything, but will use env for instructions
+
+Step 2. Install python libraries 
+
+library(reticulate)
+
+py_install(c("pandas", "numpy", "matplotlib"))
+
+step 2.1: run python code and render python files
+
+Step 3 : creates/updates the requirements.txt file
+
+shell("pip freeze > requirements.txt")
+
+

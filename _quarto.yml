@@ -1,0 +1,65 @@
+project: 
+  type: website
+  output-dir: docs # renders htmls to docs folder
+  render:
+    - "*.qmd" # renders all qmd files only. If you want to render something other than a qmd file, add it here.
+    - "!instructions_history/" # this is so this folder does not render. 
+website:
+  title: "Albert Einstein's Data Science Portfolio"
+  favicon: Images/favicon.png
+  back-to-top-navigation: true
+  repo-url: https://github.com/1Ramirez7/Portfolio_Template
+  #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
+  
+
+
+
+  page-footer: 
+    border: true
+    left: "Albert Einstein 1400©"
+    right: 
+      - icon: linkedin
+        href: https://www.linkedin.com/
+
+
+  navbar:
+    background: primary
+    search: true   
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "My Resume"
+        file: resume.qmd
+      - text: "Projects"
+        file: projects.qmd
+      - text: "Instructions"
+        file: instructions.qmd
+
+
+  sidebar:
+    - title: "Projects"
+      style: "docked"
+      background: light
+      contents:
+        - text: "Projects"
+          file: projects.qmd
+        - text: "Project 1 name"
+          file: projects/project1.qmd
+        - text: "project 2 name"
+          file: projects/project2.qmd
+        - text: "project 3 name"
+          file: projects/project3.qmd
+        #continue the pattern if you need more links
+        #copy paste from title and keep it indented to sidebar to add additonal sidebar navigation for other pages
+
+
+
+format:  
+  html:
+    theme: #see this link to customize the theme with css (https://quarto.org/docs/output-formats/html-themes.html#dark-mode)
+      light: flatly # more themes can be found [here](https://quarto.org/docs/output-formats/html-themes.html)
+      dark: darkly
+      #light: cosmo
+      #dark: [cosmo, theme-dark.scss]
+    css: styles.css
+    toc: true
